@@ -1,0 +1,11 @@
+Detección de valores atípicos
+https://www.kaggle.com/datasets/jboysen/global-food-prices
+
+Generación de flujos de información para la planeación logística
+https://www.kaggle.com/competitions/m5-forecasting-accuracy
+
+Google Cloud
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+
+Mantenimiento predictivo
+https://www.kaggle.com/datasets/vamshikreddy/pm-dataset/code
